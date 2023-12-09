@@ -1,50 +1,45 @@
-# Lospec Palette Package for Unity 🎨
+# Lospec Palette Package for Unity 🌈
 
-Easily import palettes from Lospec into your Unity projects! 
+Import palettes from Lospec into your Unity projects with ease! 🎨
 
 ## Overview 🌟
 
-The Lospec Palette Package is a Unity integration tool allowing game developers to seamlessly import color palettes from [Lospec](https://lospec.com/palette-list). This tool streamlines the process of applying beautiful color schemes to Unity-based game projects.
+The Lospec Palette Package is a Unity integration tool designed for game developers to seamlessly import color palettes from [Lospec](https://lospec.com/palette-list). Enhance the aesthetic appeal of your Unity projects efficiently and creatively.
 
-## Features 🚀
+## Features 🛠️
 
-- **Direct Palette Import**: Import palettes directly from Lospec with ease.
-- **Palette Management**: Efficiently manage and switch between different palettes.
-- **Customizable**: Modify palettes to fit the specific needs of your project.
+- **Direct Palette Import**: Easily import palettes from Lospec.
+- **Palette Management**: Manage and switch between palettes within Unity.
+- **Customizable**: Adapt palettes to your project's needs.
 
 ## Installation 🔧
 
-1. Download the package from the [Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/palette-importer-for-lospec-244575).
-2. In Unity, navigate to `Assets > Import Package > Custom Package...`.
-3. Select the downloaded package and import it.
+1. Download from the [Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/palette-importer-for-lospec-244575).
+2. In Unity, go to `Assets > Import Package > Custom Package...`.
+3. Select and import the downloaded package.
 
-## How to Use 🛠️
+## How to Use 🕹️
 
 - Access the palette importer from the Unity Editor toolbar.
 - Browse and select a palette from Lospec.
+- Choose to create a Scriptable Object or a Unity color palette.
 
 ### Screenshots 📸
+<img src="/tool%20bar.png" width="300"/>
+<img src="/lospec-window.png" width="300"/>
+<img src="/Lospec-Website.png" width="300"/>
+<img src="/Lospec-Paste.png" width="300"/>
+<img src="/Lospec-ScriptableObject.png" width="300"/>
+<img src="/Lospec-Color-Palette.png" width="300"/>
 
-<details>
-<summary>View Screenshots</summary>
+## Contributing 👐
 
-- ![Toolbar Access](/toolbar.png | width=100)
-- ![Lospec Window](/lospec-window.png | width=100)
-- ![Browse Lospec](/Lospec-Website.png | width=100)
-- ![Lospec Paste](/Lospec-Paste.png | width=100)
-- ![Lospec Scriptable Object](/Lospec-ScriptableObject.png | width=100)
-- ![Lospec Color Palette](/Lospec-Color-Palette.png | width=100)
+Found a bug or have an idea? Open an issue or submit a PR on [GitHub](https://github.com/RaspberryTaster/Lospec-Palette-Package).
 
-</details>
+## License 📜
 
-## Contributing 💡
-
-Contributions are welcome! If you have ideas for improvement or have found a bug, feel free to open an issue or submit a pull request on [GitHub](https://github.com/RaspberryTaster/Lospec-Palette-Package).
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+Licensed under MIT. See [LICENSE.md](LICENSE) for details.
 
 ---
 
-> Follow me on [GitHub](https://github.com/RaspberryTaster) for more cool projects! 💫
+> Follow more cool projects on [GitHub](https://github.com/RaspberryTaster)!
