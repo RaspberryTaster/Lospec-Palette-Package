@@ -4,7 +4,7 @@ Easily import palettes from Lospec into your Unity projects!
 
 ## Overview
 
-The Lospec Palette Package is a Unity integration tool that allows game developers to seamlessly import color palettes from [Lospec](https://www.lospec.com/palette-list) into Unity. This tool is designed to streamline the process of applying aesthetic color schemes to Unity-based game projects, enhancing both efficiency and creativity.
+The Lospec Palette Package is a Unity integration tool that allows game developers to seamlessly import color palettes from [Lospec](https://lospec.com/palette-list) into Unity. This tool is designed to streamline the process of applying aesthetic color schemes to Unity-based game projects, enhancing both efficiency and creativity.
 
 ## Features
 
