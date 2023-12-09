@@ -25,12 +25,12 @@ The Lospec Palette Package is a Unity integration tool designed for game develop
 - Choose to create a Scriptable Object or a Unity color palette.
 
 ### Screenshots 📸
-<img src="/tool%20bar.png" width="300"/>
-<img src="/lospec-window.png" width="300"/>
-<img src="/Lospec-Website.png" width="300"/>
-<img src="/Lospec-Paste.png" width="300"/>
-<img src="/Lospec-ScriptableObject.png" width="300"/>
-<img src="/Lospec-Color-Palette.png" width="300"/>
+<img src="/tool%20bar.png" width="500"/>
+<img src="/lospec-window.png" width="500"/>
+<img src="/Lospec-Website.png" width="500"/>
+<img src="/Lospec-Paste.png" width="500"/>
+<img src="/Lospec-ScriptableObject.png" width="500"/>
+<img src="/Lospec-Color-Palette.png" width="500"/>
 
 ## Contributing 👐
 
